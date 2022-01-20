@@ -8,7 +8,7 @@ EECS E6893: Big Data Analytics Team14 project
 
 ## Architecture
 
-![image](https://github.com/tim-kao/Cryptocurrencies-Prediction-Forecast/blob/main/images/architecture-new.png)
+![image](https://github.com/chho33/Cryptocurrencies-Prediction/blob/main/images/architecture-new.png)
 
 ## [Project Proposal](https://github.com/tim-kao/Cryptocurrencies-Prediction-Forecast/blob/main/project%20proposal/EECS%20E6893_%20Big%20Data%20Analytics%20Project%20Proposal.docx)
 
